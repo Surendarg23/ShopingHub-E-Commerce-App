@@ -1,0 +1,26 @@
+
+.selected-shoe{
+    transform: translate(-5px, 30px);
+}
+.rating-section{
+    justify-content: center;
+    transform: translate(300px, -200px);
+}
+.color-section{
+    justify-content: center;
+    transform: translate(300px, -200px);
+}
+.size-section{
+    justify-content: center;
+    transform: translate(300px, -200px);
+}
+.shopbackground{
+    background-color: orange;
+    margin-left: 10px;
+    margin-right: 10px;
+    height: 350px;
+    border-radius: 40px;
+}
+.relatedproduct{
+    transform: translate(300px, -20px);
+}
